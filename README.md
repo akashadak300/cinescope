@@ -39,7 +39,7 @@ Discover trending movies, search your favorites, and explore the world of cinema
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/cinescope.git
+   git clone https://github.com/akashadak300/cinescope.git
    cd cinescope
    ```
 
@@ -65,41 +65,17 @@ Discover trending movies, search your favorites, and explore the world of cinema
    ```
    Open [http://localhost:5173](http://localhost:5173) in your browser.
 
----
 
-## 🌐 Deployment
-
-Host for free on [Vercel](https://vercel.com/) or [Netlify](https://netlify.com/):
-
-- Push your code to GitHub.
-- Import your repo on Vercel/Netlify.
-- Set environment variables in the dashboard.
-- Deploy and share your live link!
-
----
-
-## 📸 Screenshots
-
-![Trending Movies](public/readme/hero.png)
-
----
 
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to change.
 
 ---
+Live Demo: 
 
-## 📄 License
 
-MIT
 
----
 
-## 📬 Contact
-
-Questions? Reach out via [GitHub Issues](https://github.com/yourusername/cinescope/issues) or join our [Discord Community](https://discord.com/invite/n6EdbFJ).
-
----
 
 Enjoy exploring movies with **CineScope**!
